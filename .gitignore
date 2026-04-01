@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+results/
+dataflows/data_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+results/

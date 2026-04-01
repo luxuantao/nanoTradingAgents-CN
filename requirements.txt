@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-core
+langchain-openai
+langgraph
+baostock
+yfinance
+duckduckgo-search
