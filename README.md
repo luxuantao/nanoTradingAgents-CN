@@ -77,7 +77,6 @@ stock_analyzer/
 ### 1. 安装依赖
 
 ```bash
-cd stock_analyzer
 pip install -r requirements.txt
 ```
 
